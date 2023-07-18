@@ -6,10 +6,10 @@
 ### <div align="center">I'm Aman, a game developer 👨‍💻 working since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working at [GameShastra](https://gameshastra.com/)  
+- 🔭 I’m currently working at [CienMetaVerz](https://cinemetaverz.com/)  
   
 
-- 🌱 I’m currently learning Unity3D & LOVE2D  
+- 🌱 I’m currently learning Unity Game Engine.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
