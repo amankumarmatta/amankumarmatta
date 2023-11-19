@@ -21,6 +21,7 @@
 ## Arcade
 - [Flappy Bird](https://github.com/amankumarmatta/Flappy-Bird) - Reimplementation of Flappy Bird in Unity Game Engine.
 ## Puzzle
+- [Obstacle Course](https://github.com/amankumarmatta/Obstacle-Course) - The first game I made while learning Unity. A simple obstacle course made using Unity3D.
 - [Traffic Escape](https://github.com/amankumarmatta/Traffic-Escape) - My take on the [Traffic Escape](https://play.google.com/store/apps/details?id=com.bonnie.trafficescape&hl=en_US&pli=1) game on playstore.
 
 ## Shooter
