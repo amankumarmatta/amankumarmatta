@@ -18,6 +18,8 @@
 ## Adventure
 - [Hero's Hurdles](https://github.com/amankumarmatta/Knight-Adventure) - An open source reimplementation of a 2D Platformer in Unity.
 
+## Arcade
+- [Flappy Bird](https://github.com/amankumarmatta/Flappy-Bird) - Reimplementation of Flappy Bird in Unity Game Engine.
 ## Puzzle
 - [Traffic Escape](https://github.com/amankumarmatta/Traffic-Escape) - My take on the [Traffic Escape](https://play.google.com/store/apps/details?id=com.bonnie.trafficescape&hl=en_US&pli=1) game on playstore.
 
