@@ -21,6 +21,9 @@
 ## Puzzle
 - [Traffic Escape](https://github.com/amankumarmatta/Traffic-Escape) - My take on the [Traffic Escape](https://play.google.com/store/apps/details?id=com.bonnie.trafficescape&hl=en_US&pli=1) game on playstore.
 
+## Shooter
+- [Space Shooter](https://github.com/amankumarmatta/Space-Shooter) - An awesome 2D shooter game based in space.
+
 ---
 
 <p align="center">
