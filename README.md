@@ -16,7 +16,7 @@
 </p>
 
 ## Adventure
-- [Knight Adventure](https://github.com/amankumarmatta/Knight-Adventure) - An open source reimplementation of a 2D Platformer in Unity.
+- [Hero's Hurdles](https://github.com/amankumarmatta/Knight-Adventure) - An open source reimplementation of a 2D Platformer in Unity.
 
 ## Puzzle
 - [Nodulus](https://github.com/Hyperparticle/nodulus) - A puzzle game with a clever twist. Based on the mathematical theory behind plank puzzles, consists of a grid of cubes and rods which can be rotated with a swipe.
