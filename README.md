@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" alt="Maintenance" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=jdnichollsc">
-    <img src="https://img.shields.io/twitter/follow/jdnichollsc.svg?label=Follow%20@jdnichollsc" alt="Follow @jdnichollsc" />
+    <img src="https://img.shields.io/twitter/follow/jdnichollsc.svg?label=Follow%20@amank69___" alt="Follow @amank69___" />
   </a>
 </p>
 
