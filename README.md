@@ -146,9 +146,5 @@
 * **3DOF:** A term often used in the context of virtual reality, refers to tracking of rotational motion only: pitch, yaw, and roll.
 * **6DOF:** Refers to the freedom of movement of a rigid body in three-dimensional space.
 
-## Supporting 🍻
-I believe in Unicorns 🦄
-Support [me](paypal.me/amankumarmatta), if you do too.
-
 ## Happy coding 💯
 Made with ❤️
