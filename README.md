@@ -22,8 +22,6 @@
 
 <p align="center">
     <a href="https://github.com/amankumarmatta?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    ![](https://komarev.com/ghpvc/?username=amankumarmatta)
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/amankumarmatta/amankumarmatta" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/amankumarmatta/amankumarmatta?label=profile%20updated&style=flat-square"></a>
 </p>
 
