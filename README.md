@@ -1,6 +1,8 @@
 <!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
 
-![Header](./header.png)
+<div align="center">
+  <img src="./header.png" alt="Header" />
+</div>
 
 <p align="center">
     <a href="https://github.com/amankumarmatta" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
