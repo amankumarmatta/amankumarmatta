@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aman Kumar Matta and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi 👋! My name is Aman Kumar Matta and I love coding</h2>
 
 ###
 
